@@ -1,3 +1,6 @@
 [submodule "submodule-folder"]
 	path = vite-react
 	url = https://github.com/jerry-lj-li/vite-react.git
+[submodule "vite-project"]
+	path = vite-project
+	url = https://github.com/jerry-lj-li/vite-project.git
