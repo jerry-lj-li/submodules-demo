@@ -1,0 +1,3 @@
+[submodule "submodule-folder"]
+	path = vite-react
+	url = https://github.com/jerry-lj-li/vite-react.git
