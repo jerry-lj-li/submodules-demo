@@ -1,0 +1,4 @@
+#!/usr/bin/env sh 此时执行git commit操作会自动执行npm test
+. "$(dirname -- "$0")/_/husky.sh"
+
+npm test 
